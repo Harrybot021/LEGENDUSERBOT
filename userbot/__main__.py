@@ -15,7 +15,7 @@ os.system("pip install -U telethon")
 
 
 hl = Config.SUDO_COMMAND_HAND_LER
-LEGEND_PIC = Config.ALIVE_PIC or "https://telegra.ph/file/ea9e11f7c9db21c1b8d5e.mp4"
+LEGEND_PIC = Config.ALIVE_PIC or "https://telegra.ph/file/a2d5b3cfe6a355459cb3e.jpg"
 
 
 
@@ -72,10 +72,10 @@ if LOAD_ASSISTANT == True:
 
 import userbot._core
 
-print(f"""『🔱🇱 🇪 🇬 🇪 🇳 🇩 B O T 🔱』➙𖤍࿐ IS ON!!! LEGEND VERSION :- {LEGENDversion}
-CONTACT OWNER @Legend_Mr_Hacker
-CREATOR :- @Legend_Mr_Hacker
-TYPE :- " .gpromote @Legend_Mr_Hacker " OR .legend OR .ping CHECK IF I'M ON!
+print(f"""『𝕰𝖒𝖕𝖎𝖗𝖊_༒╚»★ℍ𝔸ℝℝ𝕐★«╝🔱®.®』➙𖤍࿐ IS ON!!! LEGEND VERSION :- {LEGENDversion}
+CONTACT OWNER @Dev_Harry
+CREATOR :- @Dev_Harry
+TYPE :- " .gpromote@Dev_Harry " OR .Harry OR .ping CHECK IF I'M ON!
 IF YOU FACE ANY ISSUE THEN ASK WITH OWNER.""")
 
 if len(argv) not in (1, 3, 4):
