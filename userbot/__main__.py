@@ -75,7 +75,7 @@ import userbot._core
 print(f"""『𝕰𝖒𝖕𝖎𝖗𝖊_༒╚»★ℍ𝔸ℝℝ𝕐★«╝🔱®.®』➙𖤍࿐ IS ON!!! LEGEND VERSION :- {LEGENDversion}
 CONTACT OWNER @Dev_Harry
 CREATOR :- @Dev_Harry
-TYPE :- " .gpromote@Dev_Harry " OR .Harry OR .ping CHECK IF I'M ON!
+TYPE :- " .gpromote@Dev_Harry " OR *Harry OR *ping CHECK IF I'M ON!
 IF YOU FACE ANY ISSUE THEN ASK WITH OWNER.""")
 
 if len(argv) not in (1, 3, 4):
